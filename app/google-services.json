@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091212679649",
+    "project_id": "driveratdoor-c19a1",
+    "storage_bucket": "driveratdoor-c19a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091212679649:android:e9ac310dcd8e053babdaa0",
+        "android_client_info": {
+          "package_name": "com.example.hourdrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DvV4AjG1gdOYX0F5Y3bTAiq5qnw2q2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
